@@ -1,0 +1,11 @@
+# Distance between hologram lines.
+# Lower value = lines closer together.
+hologram-spacing: 0.25
+
+# Folder where hologram files are stored.
+# Path: plugins/SaturnHolograms/<this-folder>/
+storage-folder: "holograms"
+
+# Enables or disables update notifications in console
+# when a new version is available on Spigot.
+spigot-update-messages: true

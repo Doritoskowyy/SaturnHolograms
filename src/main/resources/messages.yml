@@ -1,0 +1,22 @@
+# Prefix shown before all plugin messages.
+prefix: "§b§lSaturnHolograms §8»§f"
+
+# Help menu formatting
+help-header: "§8§m------------------------------"
+help-title: "§b§lSaturnHolograms Help"
+help-create: "§f/sh create <name> <text>"      # Creates a new hologram
+help-delete: "§f/sh delete <name>"             # Deletes an existing hologram
+help-list: "§f/sh list"                        # Lists all holograms
+help-footer: "§8§m------------------------------"
+
+# Hologram creation and deletion messages
+created: "§aCreated hologram: §f%name%"        # %name% = hologram name
+deleted: "§cDeleted hologram: §f%name%"        # %name% = hologram name
+
+# Listing holograms
+list-header: "§bHolograms:"
+list-entry: "§f- %name%"                       # %name% = hologram name
+
+# Multi-line hologram features
+added-line: "§aAdded line to hologram: §f%name%"   # When using /sh addline
+updated-text: "§eUpdated text of hologram: §f%name%" # When using /sh settext

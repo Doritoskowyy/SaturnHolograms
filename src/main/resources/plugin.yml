@@ -1,0 +1,7 @@
+name: SaturnHolograms
+main: com.saturnmc.holograms.SaturnHolograms
+version: 1.0.0
+api-version: 1.21
+commands:
+  saturnholograms:
+    aliases: [sh]
